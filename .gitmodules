@@ -1,0 +1,6 @@
+[submodule "torctl"]
+	path = torctl
+	url = https://github.com/fbnmtz/torctl
+[submodule "polybarctl"]
+	path = polybarctl
+	url = https://github.com/fbnmtz/polybarctl
